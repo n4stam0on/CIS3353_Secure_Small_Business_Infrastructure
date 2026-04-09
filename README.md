@@ -9,3 +9,7 @@ This includes completing sub issues:
 - #4
 
 Completed User Story #2
+This includes completing sub issues:
+- #6
+- #7
+- #8
