@@ -21,3 +21,7 @@ This includes completing sub issues:
 - #12
 
 Completed User Story #13 (3)
+This includes completing sub issues:
+- #14
+- #15
+- #17
