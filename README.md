@@ -20,7 +20,7 @@ This includes completing sub issues:
 - #11
 - #12
 
-Completed User Story #13 (3)
+Completed User Story #13 (4)
 This includes completing sub issues:
 - #14
 - #15
