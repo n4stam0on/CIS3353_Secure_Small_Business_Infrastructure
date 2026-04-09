@@ -3,3 +3,7 @@ A Group Project with a Secure Small Business Infrastructure with Cryptographic P
 
 # Progress Within Project
 Completed User Story #1
+This includes completing sub issues:
+- #2
+- #3
+- #4
