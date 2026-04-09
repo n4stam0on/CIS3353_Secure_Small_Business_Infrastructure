@@ -7,3 +7,5 @@ This includes completing sub issues:
 - #2
 - #3
 - #4
+
+Completed User Story #2
