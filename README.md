@@ -8,7 +8,7 @@ This includes completing sub issues:
 - #3
 - #4
 
-Completed User Story #2
+Completed User Story #5 (2)
 This includes completing sub issues:
 - #6
 - #7
