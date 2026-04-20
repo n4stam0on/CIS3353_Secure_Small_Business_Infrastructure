@@ -25,3 +25,5 @@ This includes completing sub issues:
 - #14
 - #15
 - #17
+
+Inputted Analysis of Captured Traffic within User Issue #21
