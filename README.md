@@ -39,3 +39,5 @@ Completed User Sub Issue #24 Under User Story #22 (6)
 Completed User Sub Issue #25 Under User Story #22 (6)
 Completed User Sub Issue #26 Under User Story #22 (6)
 Completed User Story #22 (6)
+
+Completed User Sub Issue #33 Under User Story #32 (7)
