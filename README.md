@@ -33,3 +33,5 @@ Completed User Sub Issue #19 Under User Story #18 (5)
 Completed User Sub Issue #20 Under User Story #18 (5)
 Completed User Sub Issue #21 Under User Story #18 (5)
 Completed User Story #18 (5)
+
+Completed User Sub Issue #23 Under User Story #22 (6)
