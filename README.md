@@ -47,3 +47,4 @@ Completed User Story #32 (7)
 
 Completed User Sub Issue #37 Under User Story #36 (8)
 Completed User Sub Issue #38 Under User Story #36 (8)
+Completed User Sub Issue #39 Under User Story #36 (8)
