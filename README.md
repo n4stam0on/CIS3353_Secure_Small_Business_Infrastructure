@@ -35,3 +35,4 @@ Completed User Sub Issue #21 Under User Story #18 (5)
 Completed User Story #18 (5)
 
 Completed User Sub Issue #23 Under User Story #22 (6)
+Completed User Sub Issue #24 Under User Story #22 (6)
