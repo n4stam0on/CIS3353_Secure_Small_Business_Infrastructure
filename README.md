@@ -63,3 +63,4 @@ Deployed Ubuntu server in insecure state for attack demonstration on own device 
 Installed Ubuntu 22.04 Server on own device Under User Story #6 (2)
 Deployed Web Portal and Database on own device Under User Story #7 (2)
 Verified Connectivity from LAN and WAN on own device Under User Story #8 (2)
+Performed reconnaissance scanning on own device Under User Story #13 (4)
