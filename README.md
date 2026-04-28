@@ -54,3 +54,6 @@ Completed User Sub Issue #41 Under User Story #40 (9)
 Completed User Sub Issue #42 Under User Story #40 (9)
 Completed User Sub Issue #43 Under User Story #40 (9)
 Completed User Story #40 (9)
+
+
+Made updates to [Cryptography Plan](https://github.com/n4stam0on/CIS3353_Secure_Small_Business_Infrastructure/wiki/Cryptography-Plan#cryptography-plan) page
