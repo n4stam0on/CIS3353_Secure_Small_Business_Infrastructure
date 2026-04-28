@@ -54,3 +54,5 @@ Completed User Sub Issue #41 Under User Story #40 (9)
 Completed User Sub Issue #42 Under User Story #40 (9)
 Completed User Sub Issue #43 Under User Story #40 (9)
 Completed User Story #40 (9)
+
+Deployed pfSense and segment the network on own device Under User Story #1 (1)
