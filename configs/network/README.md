@@ -61,7 +61,7 @@ Network configuration was verified by:
 
 ## Evidence
 
-Screenshots in this folder should include:
+Screenshots in this folder include:
 
 Pulled from Issue #2
 
