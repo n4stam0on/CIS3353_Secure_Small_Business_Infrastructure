@@ -25,6 +25,7 @@ Test and Document Secure SSH Access on own device Under User Story #35 (7)
 Hardened pfSense firewall rules to enforce strict network segmentation on own device Under User Story #36 (8)
 Defined LAN to WAN Outbound Rules on own device Under User Story #37 (8)
 Blocked DMZ to LAN Traffic on own device Under User Story #38 (8)
+Tested and Validated Firewall Enforcement on own device Under User Story #39 (8)
 Assisted in finalizing documentation and preparing project presentation #44
 
 
