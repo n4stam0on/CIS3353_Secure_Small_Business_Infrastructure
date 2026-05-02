@@ -23,8 +23,9 @@ Generate SSH Key Pair on own device Under User Story #33 (7)
 Disable Password Authentication in SSH Configuration on own device Under User Story #34 (7)
 Test and Document Secure SSH Access on own device Under User Story #35 (7)
 Hardened pfSense firewall rules to enforce strict network segmentation on own device Under User Story #36 (8)
+Defined LAN to WAN Outbound Rules on own device Under User Story #37 (8)
 Assisted in finalizing documentation and preparing project presentation #44
-Hardened pfSense firewall rules to enforce strict network segmentation
+
 
 
 
