@@ -20,6 +20,7 @@ Redirected HTTP to HTTPS on own device Under User Story #25 (6)
 Verify Encrypted Traffic with Packet Capture Under User Story #26 (6)
 Enforced SSH Key-Based Authentication on own device Under User Story #32 (7)
 Generate SSH Key Pair on own device Under User Story #33 (7)
+Disable Password Authentication in SSH Configuration on own device Under User Story #34 (7)
 Assisted in finalizing documentation and preparing project presentation #44
 
 
